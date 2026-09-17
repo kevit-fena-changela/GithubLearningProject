@@ -23,6 +23,18 @@ TBD
 
 ## Getting Started
 
+# Folder Structure
+
+outreachhub/
+├── auth/
+├── home/
+├── contacts/
+├── templates/      (placeholder module for later)
+├── campaigns/       (placeholder module for later)
+├── analytics/        (placeholder module for later)
+└── assets/
+    └── images/
+
 ### Prerequisites
 
 - Node.js (LTS)
@@ -65,7 +77,7 @@ npm start
 
 ## Status
 
-🚧 Work in progress — built module by module. See [Issues](../../issues) / [Projects](../../projects) for progress.
+🚧 Work in progress — built module by module.
 
 ## License
 
